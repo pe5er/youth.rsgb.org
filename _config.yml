@@ -16,8 +16,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: WEBSITETITLE
-email: "EMAILADDRESS"
+title: RSGB Youth Team
+email: "youth.champion@rsgb.org"
 description: >- # this means to ignore newlines until "baseurl:"
   Peter Barnes
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 permalink: /:title
 
-repository: "pe5er/REPOSITORYNAME"
+repository: "pe5er/youth.rsgb.org"
 
 # Build settings
 plugins:
@@ -36,6 +36,10 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-  - PAGENAME.md
-  - PAGENAME2.md
+  - gettingstarted.md
+  - meetings.md
+  - join.md
+  - events.md
+  - yota.md
+  - contact.md
 
