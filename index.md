@@ -4,4 +4,6 @@ draft: false
 title: Home
 ---
 
-Welcome to my website. Check out the links at the top of the page.
+## What is Amateur Radio?
+
+“Amateur radio is a popular technical hobby and volunteer public service that uses designated radio frequencies for non-commercial exchange of messages, wireless experimentation, self-training, and emergency communications.” –[RSGB.org](www.rsgb.org)
